@@ -29,9 +29,8 @@ will render this html:
 
 ```html
 Please email me at: 
-<script type="text/javascript"> document.write('<a style="unicode-bidi:
-bidi-override; direction: rtl;"
-href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;test&#64;example&#46;com">moc&#46;elpmaxe&#64;tset</a>');
+<script type="text/javascript">
+document.write('<a style="unicode-bidi:bidi-override; direction: rtl;"href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;test&#64;example&#46;com">moc&#46;elpmaxe&#64;tset</a>');
 </script> 
 ```
 
