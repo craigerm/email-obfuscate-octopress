@@ -22,7 +22,7 @@ uses CSS to re-reverse the email to display to the user.
 For example this markdown:
 
 ```
-Please email me at: {% test@example.com %}
+Please email me at: {% email test@example.com %}
 ```
 
 will render this html:
